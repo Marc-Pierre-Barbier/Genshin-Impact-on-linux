@@ -22,6 +22,7 @@ https://packages.vmware.com/tools/releases/latest/windows/x64/VMware-tools-11.1.
 * save and start the vm
 * install the game
 * go into the game launcher folder and run the setup inside the DXSETUP folder this will fix the white screen bug
+* launche the game and change the screen resolution i had 4k by default
 * play the game
 
 # Credits
