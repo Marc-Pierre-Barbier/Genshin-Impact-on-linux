@@ -24,7 +24,7 @@ https://packages.vmware.com/tools/releases/latest/windows/x64/VMware-tools-11.1.
 * go into the game launcher folder and run the setup inside the DXSETUP folder this will fix the white screen bug
 * play the game
 
-#Credits
+# Credits
 
 all this work was made with the help of the folks on the lutris discord
 and special thanks to Xaero wich helped me greatly
