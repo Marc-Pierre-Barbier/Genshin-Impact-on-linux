@@ -5,9 +5,9 @@ i recomend to use vfio/gpu passthrough
 *virtualbox 3d only has 256GB i don't expect good performance of it
 *the anticheat doesn't run in wine
 
-wich leaves us with 2 option:
-1.pcie passthrough (you can find tutorials on the vfio page of the arch wiki)
-2.vmware 3d gpu
+wich leaves us with 2 option ONLY CHOSE ONE :
+1. pcie passthrough (you can find tutorials on the vfio page of the arch wiki)
+2. vmware 3d gpu
 ## installing vmware
 on arch there is performance issue with vmware from aur (as reported by Xaero)
 so try to avoid it go and get it on the webside and follow the install instruction on the archwiki
