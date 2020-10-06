@@ -1,5 +1,13 @@
 # Genshin-Impact-on-linux
+*this isn't the best experience and you will get artifacts on the screen but still work.
+i recomend to use vfio/gpu passthrough
+*gvt-g will give you a terrivle experience and qemu desn't have good virtual gpus for windows
+*virtualbox 3d only has 256GB i don't expect good performance of it
+*the anticheat doesn't run in wine
 
+wich leaves us with 2 option:
+1.pcie passthrough (you can find tutorials on the vfio page of the arch wiki)
+2.vmware 3d gpu
 ## installing vmware
 on arch there is performance issue with vmware from aur (as reported by Xaero)
 so try to avoid it go and get it on the webside and follow the install instruction on the archwiki
@@ -12,7 +20,7 @@ on init.d based the whole processe should be strait-forward just download the .b
 
 ## setting up the vm
 * create a virtual machine and set it's ram amount to anything >= 8GB
-* set the gpu vram to 2GB (work around visual glitches Xaero still experienced issues event after the fix)
+* set the gpu vram to 2GB (work around some visual glitches Xaero still experienced issues event after the fix)
 * install windows
 * (this might not be needed)in windows you need to unsintall vmware tools before installing this version of vmware tools 
 https://packages.vmware.com/tools/releases/latest/windows/x64/VMware-tools-11.1.5-16724464-x86_64.exe
@@ -24,6 +32,10 @@ https://packages.vmware.com/tools/releases/latest/windows/x64/VMware-tools-11.1.
 * go into the game launcher folder and run the setup inside the DXSETUP folder this will fix the white screen bug
 * launche the game and change the screen resolution i had 4k by default (this will cause the game to display in windowed you might try https://github.com/Codeusa/Borderless-Gaming/releases)
 * play the game
+
+## problems
+ * extremly bright artifact all aroude the caste in the begining of the game and in the borders of the skybox the cause is unkown
+ * black bushes until you get close enough (might be a lod issue) 
 
 # Credits
 
