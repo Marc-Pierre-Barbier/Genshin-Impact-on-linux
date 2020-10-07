@@ -21,6 +21,7 @@ on init.d based the whole processe should be strait-forward just download the .b
 ## setting up the vm
 * create a virtual machine and set it's ram amount to anything >= 8GB
 * set the gpu vram to 2GB (work around some visual glitches Xaero still experienced issues event after the fix)
+* set the system to BIOS instead of UEFI (no sure but seems to impact vm detection)
 * install windows
 * (this might not be needed)in windows you need to unsintall vmware tools before installing this version of vmware tools 
 https://packages.vmware.com/tools/releases/latest/windows/x64/VMware-tools-11.1.5-16724464-x86_64.exe
