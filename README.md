@@ -18,10 +18,13 @@ https://wiki.archlinux.org/index.php/VMware#Installation
 
 on init.d based the whole processe should be strait-forward just download the .bundle and run it
 
+## get a windows iso
+DO NOT USE WINDOWS LIGHT OR ANY MODIFED WINDOWS (tuxkamen on discord and u/Dazzling-Princess had this issue)
+you can get one for free on the microsoft website.
+
 ## setting up the vm
 * create a virtual machine and set it's ram amount to anything >= 8GB
 * set the gpu vram to 2GB (work around some visual glitches Xaero still experienced issues event after the fix)
-* set the system to BIOS instead of UEFI (no sure but seems to impact vm detection)
 * install windows
 * (this might not be needed)in windows you need to unsintall vmware tools before installing this version of vmware tools 
 https://packages.vmware.com/tools/releases/latest/windows/x64/VMware-tools-11.1.5-16724464-x86_64.exe
@@ -35,7 +38,7 @@ https://packages.vmware.com/tools/releases/latest/windows/x64/VMware-tools-11.1.
 * play the game
 
 ## problems
- * extremly bright artifact all aroude the caste in the begining of the game and in the borders of the skybox the cause is unkown
+ * extremly bright artifact all around the caste in the begining of the game and in the borders of the skybox the cause is unkown
  * black bushes until you get close enough (might be a lod issue) 
 
 # Credits
