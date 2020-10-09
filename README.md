@@ -22,6 +22,8 @@ on init.d based the whole processe should be strait-forward just download the .b
 DO NOT USE WINDOWS LIGHT OR ANY MODIFED WINDOWS (tuxkamen on discord and u/Dazzling-Princess had this issue)
 you can get one for free on the microsoft website.
 
+you can also get a free windows licence if you are a student by creating a new azure acount
+
 ## setting up the vm
 * create a virtual machine and set it's ram amount to anything >= 8GB
 * set the gpu vram to 2GB (work around some visual glitches Xaero still experienced issues event after the fix)
