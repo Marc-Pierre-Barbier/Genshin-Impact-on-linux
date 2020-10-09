@@ -1,9 +1,9 @@
 # Genshin-Impact-on-linux
-*this isn't the best experience and you will get artifacts on the screen but still work.
+* this isn't the best experience and you will get artifacts on the screen but still work.
 i recomend to use vfio/gpu passthrough
-*gvt-g will give you a terrivle experience and qemu desn't have good virtual gpus for windows
-*virtualbox 3d only has 256GB i don't expect good performance of it
-*the anticheat doesn't run in wine
+* gvt-g will give you a terrible experience and qemu desn't have good virtual gpus for windows
+* virtualbox 3d don't support directx 10/11
+* the anticheat doesn't run in wine
 
 wich leaves us with 2 option ONLY CHOSE ONE :
 1. pcie passthrough (you can find tutorials on the vfio page of the arch wiki)
