@@ -31,7 +31,7 @@ you can also get a free windows licence if you are a student by creating a new a
 * (this might not be needed)in windows you need to unsintall vmware tools before installing this version of vmware tools 
 https://packages.vmware.com/tools/releases/latest/windows/x64/VMware-tools-11.1.5-16724464-x86_64.exe
 * then shut down the vm
-* go into the virualmachine settings -> options -> advanced and copy the path to the vmx
+* go into the virtual machine settings -> options -> advanced and copy the path to the vmx
 * edit the vmx file and append at then end ```hypervisor.cpuid.v0 = "FALSE"``` this will mask the virtualmachine since the game won't start without
 * save and start the vm
 * install the game
