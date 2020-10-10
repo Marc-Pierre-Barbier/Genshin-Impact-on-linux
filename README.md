@@ -8,7 +8,7 @@ i recomend to use vfio/gpu passthrough
 wich leaves us with 2 option ONLY CHOSE ONE :
 1. pcie passthrough (you can find tutorials on the vfio page of the arch wiki)
 2. vmware 3d gpu (this tutorial)
-## installing vmware
+## installing vmware 16
 on arch there is performance issue with vmware from aur (as reported by Xaero)
 so try to avoid it go and get it on the webside and follow the install instruction on the archwiki
 
@@ -25,6 +25,7 @@ you can get one for free on the microsoft website.
 you can also get a free windows licence if you are a student by creating a new azure acount
 
 ## setting up the vm
+* YOU NEED VMWARE 16 frame rate will be low on 15
 * create a virtual machine and set it's ram amount to anything >= 8GB
 * set the gpu vram to 2GB (work around some visual glitches Xaero still experienced issues event after the fix)
 * install windows
@@ -45,8 +46,10 @@ you can workaround the windowed issue with this : https://github.com/Codeusa/Bor
  * black bushes until you get close enough (might be a lod issue) 
 
 # Credits
-
 all this work was made with the help of the folks on the lutris discord
 and special thanks to Xaero wich helped me greatly
 
 the white screen workaround comes from (https://www.ghostarrow.com/genshin-impact-wont-launch-how-to-fix)
+
+don't esitate to ask help from me on discord : Marc barbier#9064
+and on the lutris discord : https://discord.gg/uTnGSt
