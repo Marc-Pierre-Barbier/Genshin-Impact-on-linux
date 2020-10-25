@@ -5,9 +5,10 @@ i recomend to use vfio/gpu passthrough
 * virtualbox 3d don't support directx 10/11
 * the anticheat doesn't run in wine
 
-wich leaves us with 2 option ONLY CHOSE ONE :
+wich leaves us with 3 option ONLY CHOSE ONE :
 1. pcie passthrough (you can find tutorials on the vfio page of the arch wiki)
 2. vmware 3d gpu (this tutorial)
+3. patch the game dlls to run the game on wine (risk of cheat detection)(see form my concer and instuction on how to do it : https://github.com/Marc-Pierre-Barbier/Genshin-Impact-on-linux/issues/1)
 ## installing vmware 16
 on arch there is performance issue with vmware from aur (as reported by Xaero)
 so try to avoid it go and get it on the webside and follow the install instruction on the archwiki
