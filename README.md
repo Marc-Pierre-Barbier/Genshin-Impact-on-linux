@@ -33,20 +33,20 @@ you can also get a free windows licence if you are a student by creating a new a
 * set the gpu vram to 2GB (work around some visual glitches Xaero still experienced issues event after the fix)
 * install windows
 * (this might not be needed)in windows you need to unsintall vmware tools before installing this version of vmware tools 
-https://packages.vmware.com/tools/releases/latest/windows/x64/VMware-tools-11.1.5-16724464-x86_64.exe
+https://packages.vmware.com/tools/releases/latest/windows/x64/VMware-tools-11.2.0-16938113-x86_64.exe
 * then shut down the vm
 * go into the virtual machine settings -> options -> advanced and copy the path to the vmx
 * edit the vmx file and append at then end ```hypervisor.cpuid.v0 = "FALSE"``` this will mask the virtualmachine since the game won't start without
 * save and start the vm
 * install the game
 * go into the game launcher folder and run the setup inside the DXSETUP folder this will fix the white screen bug
-* launche the game and change the screen resolution i had 4k by default (this will cause the game to display in windowed)
+* launch the game and change the screen resolution i had 4k by default (this will cause the game to display in windowed)
 you can workaround the windowed issue with this : https://github.com/Codeusa/Borderless-Gaming/releases
+* IMPORTANT: Open the graphics options in-game menu and turn off the bloom feature.
 * play the game
 
 ## problems
- * extremly bright artifact all around the caste in the begining of the game and in the borders of the skybox the cause is unkown
- * black bushes until you get close enough (might be a lod issue) 
+ * black bushes and white rocks until you get close enough (might be a lod issue) and color distortion in certain areas.
 
 # Credits
 all this work was made with the help of the folks on the lutris discord
