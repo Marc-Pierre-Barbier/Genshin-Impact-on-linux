@@ -47,6 +47,7 @@ you can workaround the windowed issue with this : https://github.com/Codeusa/Bor
 
 ## problems
  * black bushes and white rocks until you get close enough (might be a lod issue) and color distortion in certain areas.
+ * black screen on amd hardware (WE DON'T KNOW THE CAUSE)
 
 # Credits
 all this work was made with the help of the folks on the lutris discord
