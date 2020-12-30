@@ -33,7 +33,7 @@ you can also get a free windows licence if you are a student by creating a new a
 * set the gpu vram to 2GB (work around some visual glitches Xaero still experienced issues event after the fix)
 * install windows
 * /!\THE STOCK VMWARE TOOLS WILL NOT WORK/!\in windows you need to unsintall vmware tools before installing this version of vmware tools 
-https://packages.vmware.com/tools/releases/latest/windows/x64/VMware-tools-11.2.0-16938113-x86_64.exe
+https://packages.vmware.com/tools/releases/latest/windows/x64/
 * then shut down the vm
 * go into the virtual machine settings -> options -> advanced and copy the path to the vmx
 * edit the vmx file and append at then end ```hypervisor.cpuid.v0 = "FALSE"``` this will mask the virtualmachine since the game won't start without
