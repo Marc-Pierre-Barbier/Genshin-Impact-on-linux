@@ -11,6 +11,7 @@ wich leaves us with 3 option ONLY CHOSE ONE :
 3. patch the game dlls to run the game on wine (risk of cheat detection)(see form my concern and instuctions on how to do it : https://github.com/Marc-Pierre-Barbier/Genshin-Impact-on-linux/issues/1)
 ## installing vmware 16
 /!\ some users have reported problems getting 3d acceleration on amd hardware with vmware /!\
+but there was at least one succes so you can at least try.
 
 on arch there is performance issue with vmware from aur (as reported by Xaero)
 so try to avoid it go and get it on the webside and follow the install instruction on the archwiki
