@@ -32,7 +32,7 @@ you can also get a free windows licence if you are a student by creating a new a
 * create a virtual machine and set it's ram amount to anything >= 8GB
 * set the gpu vram to 2GB (work around some visual glitches Xaero still experienced issues event after the fix)
 * install windows
-* /!\THE STOCK VMWARE TOOLS WILL NOT WORK/!\in windows you need to unsintall vmware tools before installing this version of vmware tools 
+* /!\THE STOCK VMWARE TOOLS WILL NOT WORK/!\in windows you need to uninstall vmware tools before installing this version of vmware tools 
 https://packages.vmware.com/tools/releases/latest/windows/x64/
 * then shut down the vm
 * go into the virtual machine settings -> options -> advanced and copy the path to the vmx
