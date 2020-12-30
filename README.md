@@ -48,6 +48,8 @@ you can workaround the windowed issue with this : https://github.com/Codeusa/Bor
 ## problems
  * black bushes and white rocks until you get close enough (might be a lod issue) and color distortion in certain areas.
  * black screen on amd hardware (WE DON'T KNOW THE CAUSE)
+ we had report of it working on a RX5700
+ and on not working on rx580 so you should try and please notify us in case of succes or failure
 
 # Credits
 all this work was made with the help of the folks on the lutris discord
