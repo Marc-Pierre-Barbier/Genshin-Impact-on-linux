@@ -58,6 +58,6 @@ and special thanks to Xaero wich helped me greatly
 
 the white screen workaround comes from (https://www.ghostarrow.com/genshin-impact-wont-launch-how-to-fix)
 
-don't esitate to ask help from me on discord : Marc barbier#9064
+don't hesitate to ask help from me on discord : Marc barbier#9064
 
 and on the lutris discord : https://discord.gg/uTnGSt
