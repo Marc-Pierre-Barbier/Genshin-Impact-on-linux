@@ -1,3 +1,5 @@
+# BROKEN IN V 1.3 ANY IDEA ON HOW TO FIX IT IS WELLCOMED
+
 # Genshin-Impact-on-linux
 * this isn't the best experience and you will get artifacts on the screen but still work.
 i recomend to use vfio/gpu passthrough
