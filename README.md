@@ -1,4 +1,4 @@
-# BROKEN IN V 1.3 ANY IDEA ON HOW TO FIX IT IS WELLCOMED
+# BROKEN IN V 1.3 ANY IDEA ON HOW TO FIX IT IS WELCOMED
 
 # Genshin-Impact-on-linux
 * this isn't the best experience and you will get artifacts on the screen but still work.
