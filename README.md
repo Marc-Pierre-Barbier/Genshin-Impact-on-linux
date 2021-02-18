@@ -1,5 +1,5 @@
 # BROKEN IN V 1.3 ANY IDEA ON HOW TO FIX IT IS WELCOMED
-
+## We are trying to fix it right not, see #9
 # Genshin-Impact-on-linux
 * this isn't the best experience and you will get artifacts on the screen but still work.
 i recomend to use vfio/gpu passthrough
@@ -7,10 +7,11 @@ i recomend to use vfio/gpu passthrough
 * virtualbox 3d don't support directx 10/11
 * the anticheat doesn't run in wine
 
-wich leaves us with 3 option ONLY CHOSE ONE :
+wich leaves us with 4 option ONLY CHOOSE ONE :
 1. pcie passthrough (you can find tutorials on the vfio page of the arch wiki)
 2. vmware 3d gpu (this tutorial)
 3. patch the game dlls to run the game on wine (risk of cheat detection)(see form my concern and instuctions on how to do it : https://github.com/Marc-Pierre-Barbier/Genshin-Impact-on-linux/issues/1)
+4. As a last resort, dual-boot and side-step the entire problem. This is advisable if you have a bad computer with a bad GPU.
 ## installing vmware 16
 /!\ some users have reported problems getting 3d acceleration on amd hardware with vmware /!\
 but there was at least one succes so you can at least try.
