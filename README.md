@@ -1,6 +1,6 @@
-# BROKEN IN V 1.3 ANY IDEA ON HOW TO FIX IT IS WELCOMED
+# BROKEN SINCE V 1.3 ANY IDEA ON HOW TO FIX IT IS WELCOMED
 ## We are trying to fix it right now, see #9
-# Genshin-Impact-on-linux
+## Genshin-Impact-on-linux
 * this isn't the best experience and you will get artifacts on the screen but still work.
 i recomend to use vfio/gpu passthrough
 * gvt-g will give you a terrible experience and qemu desn't have good virtual gpus for windows
@@ -61,6 +61,4 @@ and special thanks to Xaero wich helped me greatly
 
 the white screen workaround comes from (https://www.ghostarrow.com/genshin-impact-wont-launch-how-to-fix)
 
-don't hesitate to ask help from me on discord : Marc barbier#9064
-
-and on the lutris discord : https://discord.gg/uTnGSt
+the lutris discord can be a good source of help : https://discord.gg/uTnGSt
